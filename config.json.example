@@ -1,0 +1,12 @@
+{
+
+    "invitedUsers": ["your user ID", "another person's user ID, if you want to"],
+    "llm": {
+
+        "url": "http://localhost:3009/v1/chat/completions",
+        "temp": 0.8,
+        "max_tokens": -1
+
+    }
+
+}

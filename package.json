@@ -1,0 +1,20 @@
+{
+  "name": "phi2discord",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "nodemon index"
+  },
+  "description": "Phi 2, by Microsoft brought to a Discord bot.",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/UkehUwU/phi2discord.git",
+  "author": "@uk3h",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
